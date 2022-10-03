@@ -21,6 +21,6 @@ plt.plot(WD, DWT,'ro') #ro for red
 plt.xlabel('Well Depth, ft')
 plt.ylabel('Depth of Water table(ft)')
 plt.grid() #a grid for aesthetics
-plt.title('Wall Depth to ater table relationship')
+plt.title('Wall Depth to water table relationship')
 plt.legend(['DWT'],loc='upper left')
 plt.show()
